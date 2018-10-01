@@ -12,6 +12,7 @@ Install vlc media player with:
 
 `sudo apt install vlc`
 
+Goto https://wiki.videolan.org/VLC_command-line_help/ to learn more.
 
 ### Run the file
 `python basic.py`
